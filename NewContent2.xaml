@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp6.NewContent2">
+    <VerticalStackLayout>
+        <Label 
+            Text="WWWW"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Image Source="C:\Users\user\source\repos\MauiApp6\MauiApp6\Png.png" WidthRequest="100">
+            
+        </Image>
+    </VerticalStackLayout>
+</ContentView>
